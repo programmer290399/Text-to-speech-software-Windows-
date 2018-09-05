@@ -1,0 +1,37 @@
+Type=Exe
+Form=Form1.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS.0\system32\STDOLE2.TLB#OLE Automation
+Object={E179B26F-FC25-11D1-9915-006097C99385}#1.0#0; GRIDDTC.OCX
+Object={E3583FCE-0595-4681-9ACD-48F7805DEFE1}#1.0#0; glxpbuttonz.ocx
+Object={5734474E-78D3-4254-99B9-C35F31BDF509}#63.1#0; vbskpro2.ocx
+IconForm="Form1"
+Startup="Form1"
+ExeName32="TECT TO SPEECH.exe"
+Command32=""
+Name="Project1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="csn"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
